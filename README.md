@@ -1,6 +1,9 @@
 # health-check
 A promise-based health check util for Nodejs
 
+## Install
+`npm i @danielwpz/health-check`
+
 ## Example
 ```
 const Healthcheck = require('@danielwpz/health-check');
